@@ -1,0 +1,3 @@
+#a SINGLE átvált-e a msáikra, ha az első kifogyott?
+GT4500,0,1,1,0
+TORPEDO,SINGLE

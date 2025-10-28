@@ -1,0 +1,2 @@
+SUCCESS #hajó létrehozása
+SUCCESS #tüzelés
