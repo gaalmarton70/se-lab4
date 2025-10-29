@@ -1,0 +1,3 @@
+#a másidik tárolóban nincs lövedék
+GT4500,1,0,0,1
+TORPEDO,ALL
