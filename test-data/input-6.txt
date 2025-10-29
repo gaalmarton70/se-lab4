@@ -1,0 +1,5 @@
+#ALL tüzelési mód tesztelése, ha kifogy az első tároló
+GT4500,2,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
