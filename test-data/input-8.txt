@@ -1,0 +1,4 @@
+#az első raktárból tüzelt utoljára, de a második üres
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
